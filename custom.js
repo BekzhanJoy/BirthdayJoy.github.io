@@ -1,4 +1,4 @@
-// Ba Du Ao Tian October 10, 2019
+
 $(function () {
     let dom = document.createElement("span");
     config.texts.forEach(function (item) {
