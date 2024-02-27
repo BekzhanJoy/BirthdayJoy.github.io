@@ -1,16 +1,17 @@
 var config = {
     texts: [
-        "To my aunt",      
-        "Жаннур тате",  
+        "To my friend",      
+        "Dinara",  
         "Today is your birthday",
-        "Желаю вам",
-        "Счастья",
-        "Здоровья",
-        "Пусть исполнятся все мечты",
-        "Happy birthday!!!",
+        "I wish you",
+        "Joyful Birthday!",
+        "Happiness!",
+        "Health!",
+        "All Your Dreams Come True!",
+        "Happy Birthday!",
     ],
     imgs: {
-        "Cutie pie": "./imgs/xiaokeai.png",
+        "Dinara": "./imgs/Dinara.png",
     },
     desc: {
         turn_on: "Start",
