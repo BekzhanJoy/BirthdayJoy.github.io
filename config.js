@@ -1,7 +1,7 @@
 var config = {
     texts: [
-        "To my friend",      
-        "Dinara",  
+        "To my sister",      
+        "Kamila",  
         "Today is your birthday",
         "I wish you",
         "Joyful Birthday!",
@@ -11,7 +11,7 @@ var config = {
         "Happy Birthday!",
     ],
     imgs: {
-        "Dinara": "./imgs/Dinara.png",
+        "Kamila": "./imgs/Kamila.png",
     },
     desc: {
         turn_on: "Start",
